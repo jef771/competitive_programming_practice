@@ -1,1 +1,1 @@
-https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b
+https://atcoder.jp/contests/sumitrust2019/tasks/
